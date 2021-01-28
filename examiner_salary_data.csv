@@ -1,0 +1,82 @@
+,Year,Occupation,Paygrade,Base Salary,Bonus,Location,url_name
+0,2018,Patent Examining,GS-13,"$105,809",$0,"Queensbury, New York",poon-robert
+1,2017,Patent Examining,GS-13,"$105,809",$0,"Queensbury, New York",poon-robert
+2,2016,Patent Examining,GS-13,"$104,764",$0,"Queensbury, New York",poon-robert
+3,2015,Patent Examining,GS-13,"$100,484",$0,"Rockville, Maryland",poon-robert
+4,2014,Patent Examining,GS-13,"$96,280",$0,"Rockville, Maryland",poon-robert
+5,2013,Patent Examining,GS-12,"$80,164",$0,"Rockville, Maryland",poon-robert
+6,2012,Patent Examining,GS-11,"$72,229","$1,300","Alexandria, Virginia",poon-robert
+7,2011,Patent Examining,GS-11,"$69,899",$700,"Alexandria, Virginia",poon-robert
+8,2010,Patent Examining,GS-09,"$62,704",$0,"Alexandria, Virginia",poon-robert
+9,2009,Patent Examining,GS-05,"$53,757",$0,"Alexandria, Virginia",poon-robert
+10,2008,Patent Examining,GS-05,"$52,233",$0,"Alexandria, Virginia",poon-robert
+0,2018,Patent Examining,GS-14,"$128,944","$3,868","Alexandria, Virginia",richardson-james-e
+1,2017,Patent Examining,GS-14,"$128,944",$0,"Alexandria, Virginia",richardson-james-e
+2,2016,Patent Examining,GS-14,"$127,667","$2,809","Alexandria, Virginia",richardson-james-e
+3,2015,Patent Examining,GS-14,"$122,571","$4,483","Alexandria, Virginia",richardson-james-e
+4,2014,Patent Examining,GS-14,"$117,565","$4,862","Alexandria, Virginia",richardson-james-e
+5,2013,Patent Examining,GS-14,"$112,647",$845,"Alexandria, Virginia",richardson-james-e
+6,2012,Patent Examining,GS-13,"$98,504","$1,300","Alexandria, Virginia",richardson-james-e
+7,2011,Patent Examining,GS-13,"$95,326","$2,357","Alexandria, Virginia",richardson-james-e
+8,2010,Patent Examining,GS-12,"$82,836",$0,"Alexandria, Virginia",richardson-james-e
+9,2009,Patent Examining,GS-11,"$75,751",$0,"Alexandria, Virginia",richardson-james-e
+10,2008,Patent Examining,GS-09,"$69,725",$0,"Alexandria, Virginia",richardson-james-e
+11,2007,Patent Examining,GS-07,"$61,893",$0,"Alexandria, Virginia",richardson-james-e
+0,2009,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+1,2008,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+2,2007,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+3,2006,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+4,2005,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+5,2004,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],williams-jamila-o
+0,2014,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+1,2013,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+2,2012,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+3,2011,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+4,2010,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+5,2009,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+6,2008,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+7,2007,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+8,2006,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],hassan-rashedul
+0,2015,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],harris-jasper-j
+0,2015,Patent Examining,GS-12,"$106,315",$0,"Alexandria, Virginia",florio-kristine
+1,2014,Patent Examining,GS-12,"$105,254",$0,"Alexandria, Virginia",florio-kristine
+2,2013,Patent Examining,GS-12,"$104,212","$1,282","Alexandria, Virginia",florio-kristine
+3,2012,Patent Examining,GS-12,"$104,212",$782,"Alexandria, Virginia",florio-kristine
+0,2018,Patent Examining,GS-14,"$132,851","$2,892","Alexandria, Virginia",au-bac-h
+1,2017,Patent Examining,GS-14,"$132,851","$1,925","Alexandria, Virginia",au-bac-h
+2,2016,Patent Examining,GS-14,"$127,667","$5,902","Alexandria, Virginia",au-bac-h
+3,2015,Patent Examining,GS-14,"$122,571","$3,336","Alexandria, Virginia",au-bac-h
+4,2014,Patent Examining,GS-14,"$117,565","$2,878","Alexandria, Virginia",au-bac-h
+5,2013,Patent Examining,GS-14,"$112,647",$0,"Alexandria, Virginia",au-bac-h
+6,2012,Patent Examining,GS-14,"$112,647","$1,300","Alexandria, Virginia",au-bac-h
+7,2011,Patent Examining,GS-13,"$104,859",$700,"Alexandria, Virginia",au-bac-h
+8,2010,Patent Examining,GS-13,"$101,681",$0,"Alexandria, Virginia",au-bac-h
+9,2009,Patent Examining,GS-12,"$92,140",$0,"Alexandria, Virginia",au-bac-h
+10,2008,Patent Examining,GS-12,"$86,989",$0,"Alexandria, Virginia",au-bac-h
+11,2007,Patent Examining,GS-12,"$82,952",$0,"Alexandria, Virginia",au-bac-h
+12,2006,Patent Examining,GS-11,"$70,395",$0,"Alexandria, Virginia",au-bac-h
+13,2005,Patent Examining,GS-09,"$64,643",$0,"Arlington, Virginia",au-bac-h
+0,2018,Patent Examining,GS-14,"$121,128","$1,785","Grand Haven, Michigan",mcintosh-andrew-t
+1,2017,Patent Examining,GS-14,"$121,128","$1,482","Grand Haven, Michigan",mcintosh-andrew-t
+2,2016,Patent Examining,GS-14,"$116,060",$795,"Grand Haven, Michigan",mcintosh-andrew-t
+3,2015,Patent Examining,GS-13,"$100,484","$2,169","Collierville, Tennessee",mcintosh-andrew-t
+4,2014,Patent Examining,GS-13,"$96,280","$2,284","Collierville, Tennessee",mcintosh-andrew-t
+5,2013,Patent Examining,GS-12,"$82,836","$3,075","Collierville, Tennessee",mcintosh-andrew-t
+6,2012,Patent Examining,GS-11,"$76,888","$1,664","Alexandria, Virginia",mcintosh-andrew-t
+7,2011,Patent Examining,GS-07,"$67,589",$700,"Alexandria, Virginia",mcintosh-andrew-t
+0,2018,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],ojofeitimi-ayodeji-t
+1,2017,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],ojofeitimi-ayodeji-t
+2,2016,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],ojofeitimi-ayodeji-t
+3,2015,[REDACTED],[REDACTED],[REDACTED],[REDACTED],[REDACTED],ojofeitimi-ayodeji-t
+0,2018,Patent Examining,GS-14,"$132,851","$3,917","Alexandria, Virginia",yeung-lopez-feifei
+1,2017,Patent Examining,GS-14,"$132,851","$2,921","Alexandria, Virginia",yeung-lopez-feifei
+2,2016,Patent Examining,GS-14,"$127,667","$3,179","Alexandria, Virginia",yeung-lopez-feifei
+3,2015,Patent Examining,GS-14,"$126,402","$3,687","Alexandria, Virginia",yeung-lopez-feifei
+4,2014,Patent Examining,GS-14,"$121,357","$3,538","Alexandria, Virginia",yeung-lopez-feifei
+5,2013,Patent Examining,GS-14,"$116,402","$2,844","Alexandria, Virginia",yeung-lopez-feifei
+6,2012,Patent Examining,GS-14,"$112,647","$3,377","Alexandria, Virginia",yeung-lopez-feifei
+7,2011,Patent Examining,GS-13,"$98,504",$700,"Alexandria, Virginia",yeung-lopez-feifei
+8,2010,Patent Examining,GS-13,"$95,326","$1,685","Alexandria, Virginia",yeung-lopez-feifei
+9,2009,Patent Examining,GS-12,"$84,244",$0,"Alexandria, Virginia",yeung-lopez-feifei
+10,2008,Patent Examining,GS-11,"$75,850",$0,"Alexandria, Virginia",yeung-lopez-feifei
+11,2007,Patent Examining,GS-09,"$68,471",$0,"Alexandria, Virginia",yeung-lopez-feifei
